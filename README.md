@@ -6,4 +6,4 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-![Imgur](https://imgur.com/YZq9gWV)
+![Imgur](https://i.imgur.com/YZq9gWV.png)
